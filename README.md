@@ -72,7 +72,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **a-femat** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **a-femat** - *Initial work* - [a-femat](https://github.com/a-femat)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
